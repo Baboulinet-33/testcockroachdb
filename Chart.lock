@@ -1,0 +1,6 @@
+dependencies:
+- name: cockroachdb
+  repository: https://charts.cockroachdb.com/
+  version: 11.2.3
+digest: sha256:2ce1f111d5d1041785ebc71c4b091236aac5b95d4cc74d086b8f127780e8b5e2
+generated: "2024-11-14T10:40:30.547521273+01:00"
